@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #1da1f2;
+}
+.twitter-logo {
+  color: #1da1f2;
+  margin-right: 5px;
+}
+
+.App {
+  margin: 50px auto;
+  max-width: 800px;
+  box-shadow: 1px 8px 16px rgba(0, 0, 0, 0.6);
+  background-color: #fff;
+  padding: 20px;
+  overflow: auto;
+  height: auto;
+}
